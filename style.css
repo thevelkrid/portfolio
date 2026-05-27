@@ -1,0 +1,57 @@
+p {
+    color: white;
+}
+
+h1 {
+     text-align: center;
+}
+
+#one {
+    color: red;
+    font-size: 18px;
+}
+
+.myclass {
+    color: yellow;
+    text-align: center;
+}
+
+b {
+    color: black;
+    font-size: larger;
+}
+
+body {
+    background-color: rgb( 100, 100, 100);
+}
+
+button {
+    background-color: aqua;
+    color:brown;
+    font-size: x-large;
+    font: bold;
+    font-weight: 900;
+}
+
+b {
+    font-size: 20px;
+}
+
+a{
+    color: rgb(3, 186, 252);
+    margin-right: 100px;
+}
+
+div{
+    border-style: double;
+    border-color: white;
+    border-radius: 0px;
+    width: 500px;
+    height: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
